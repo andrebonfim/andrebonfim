@@ -1,23 +1,33 @@
 # Hello, I'm André Luis Bonfim! 👋
 
-**Software Engineer | Full Stack Developer | IT Infrastructure Expert**
+**Software Engineer | Python & TypeScript Specialist | Infrastructure Expert**
 
-With a solid background in **IT Infrastructure** and a recent degree in **Software Engineering**, I specialize in building robust applications with a focus on **Mobile-First Design**. My 5+ years of experience in systems and networking provide me with a deep understanding of software stability, performance, and deployment.
+I am a Software Engineer with a "systems-first" mindset. With over 5+ years of experience managing IT infrastructure and networking, I build applications with a deep focus on stability, performance, and deployment efficiency. 
 
----
-
-### 🛠️ Tech Stack & Expertise
-
-I am a hands-on developer focused on clean, maintainable code and scalable architectures.
-
-- **Frontend & Mobile:** React, Next.js, React Native (Mobile-First approach)
-- **Backend:** Python, Node.js
-- **Infrastructure:** Linux/Windows Environments, Shell Scripting, Networking
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+My approach is pragmatic: I choose the right tool for the job—whether it's the modern reactivity of **Next.js** or the lightweight efficiency of **HTMX + FastAPI**.
 
 ---
 
-### 📫 Connect with me
+### 🚀 Featured Work
+- **[Game Veredito](https://github.com/andrebonfim/game-veredito):** A high-performance AI Game Analyzer built with **FastAPI**, **HTMX**, and **Gemini 2.5 Flash**. Showcasing real-time streaming (SSE) and zero-JS frontend architecture.
+- **[Portfolio Next.js](https://github.com/andrebonfim/portfolio-nextjs):** My personal engineering showcase built with **Next.js 16 (App Router)** and **Tailwind CSS v4**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreluisbonfim) [![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:andrebonfim@pm.me)
+---
+
+### 🛠️ Technical Expertise
+
+- **Backend:** Python (FastAPI, Django, SQLAlchemy), Node.js, PostgreSQL/SQLite.
+- **Frontend:** Next.js (App Router), TypeScript, HTMX, Tailwind CSS.
+- **Infrastructure:** Linux Expert (Pop!_OS/COSMIC), Shell Scripting, Docker, Networking, and System Stability.
+
+---
+
+### 🌐 Let's Connect
+
+- **Personal Site:** [andrebonfim.dev](https://andrebonfim.dev)
+- **LinkedIn:** [linkedin.com/in/andreluisbonfim](https://linkedin.com/in/andreluisbonfim)
+- **E-mail:** [andrebonfim@pm.me](mailto:andrebonfim@pm.me)
+
+---
+
+*"Engineering is about making trade-offs. I build software that lasts."*
