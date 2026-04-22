@@ -1,8 +1,8 @@
 # Hello, I'm André Luis Bonfim! 👋
 
-**Software Engineer | Python & TypeScript Specialist | Infrastructure Expert**
+### Software Engineer | Python & TypeScript Developer | Infrastructure & Systems
 
-I am a Software Engineer with a "systems-first" mindset. With over 5+ years of experience managing IT infrastructure and networking, I build applications with a deep focus on stability, performance, and deployment efficiency. 
+I am a Software Engineer with a **"systems-first"** mindset. With **6+ years** of experience in IT infrastructure and networking, I build applications with a focus on **stability, performance, and deployment efficiency**.
 
 My approach is pragmatic: I choose the right tool for the job—whether it's the modern reactivity of **Next.js** or the lightweight efficiency of **HTMX + FastAPI**.
 
